@@ -1,0 +1,79 @@
+[
+    {
+        "title": "End-to-End Superstore Sales Pipeline",
+        "description": "An end-to-end data pipeline project involving data extraction, transformation, SQL processing, SQLite storage and data visualisation.",
+        "technologies": "Python \u2022 SQL \u2022 SQLite \u2022 ETL \u2022 Data Visualisation",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "Sales Analysis",
+        "description": "An exploratory data analysis project examining sales performance, trends and patterns to surface actionable business insights.",
+        "technologies": "Python \u2022 Pandas \u2022 Data Analysis \u2022 Data Visualisation",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "Health Lifestyle Risk Prediction",
+        "description": "A machine learning project predicting individual health risk based on lifestyle and demographic factors.",
+        "technologies": "Python \u2022 Pandas \u2022 Scikit-learn \u2022 Machine Learning",
+        "github": "https://github.com/rasmeniaphiwe47-bit/Health_Care_Risk_Pridictions_Analysis/blob/main/Health%20Lifestyle%20Risk%20Prediction.ipynb",
+        "demo": ""
+    },
+    {
+        "title": "Iris Classification Analysis",
+        "description": "A classic machine learning classification project applying and comparing algorithms to classify iris species from flower measurements.",
+        "technologies": "Python \u2022 Scikit-learn \u2022 Classification \u2022 Machine Learning",
+        "github": "https://github.com/rasmeniaphiwe47-bit/Health_Care_Risk_Pridictions_Analysis/blob/main/Iris_Classification_Analysis%20(2).ipynb",
+        "demo": ""
+    },
+    {
+        "title": "Car Price Prediction",
+        "description": "A predictive modelling project using machine learning techniques to estimate car prices from vehicle features and specifications.",
+        "technologies": "Python \u2022 Pandas \u2022 Scikit-learn \u2022 Regression",
+        "github": "https://github.com/rasmeniaphiwe47-bit/Data-Science-Projects/blob/main/Car%20Price%20Prediction%20(1)%20(1)%20(1).ipynb",
+        "demo": ""
+    },
+    {
+        "title": "Customer Churn Prediction",
+        "description": "A machine learning project focused on predicting customer churn and identifying factors associated with customer retention.",
+        "technologies": "Python \u2022 Pandas \u2022 Scikit-learn \u2022 Machine Learning",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "Youth Unemployment in South Africa",
+        "description": "A statistical research project investigating youth unemployment using demographic and socioeconomic factors.",
+        "technologies": "R \u2022 Statistics \u2022 Data Analysis \u2022 Data Visualisation",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "Mathematical Modeling of Malaria Transmission",
+        "description": "A mathematical modelling project investigating malaria transmission dynamics using an SEIR-SI compartmental model.",
+        "technologies": "Python \u2022 Mathematical Modelling \u2022 Statistics \u2022 Differential Equations",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "Email Spam Detector",
+        "description": "A machine learning and natural language processing project for classifying emails as spam or legitimate messages.",
+        "technologies": "Python \u2022 NLP \u2022 Machine Learning \u2022 Scikit-learn",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "House Price Prediction",
+        "description": "A predictive modelling project using machine learning techniques to estimate house prices from available features.",
+        "technologies": "Python \u2022 Pandas \u2022 Scikit-learn \u2022 Regression",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    },
+    {
+        "title": "Loan & Credit Risk Classifier",
+        "description": "A classification project focused on predicting loan or credit risk using machine learning.",
+        "technologies": "Python \u2022 Machine Learning \u2022 Classification \u2022 Scikit-learn",
+        "github": "https://github.com/rasmeniaphiwe47-bit",
+        "demo": ""
+    }
+]
