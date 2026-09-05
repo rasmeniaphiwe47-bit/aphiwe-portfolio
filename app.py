@@ -71,7 +71,7 @@ page = st.sidebar.radio(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Junior Data Scientist | Data Engineer | Data Analyst")
+st.sidebar.caption("Junior Data Scientist | Junior Data Engineer | Data Analyst")
 st.sidebar.caption("📍 Cape Town, South Africa")
 
 if page == "Home":
